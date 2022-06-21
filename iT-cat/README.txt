@@ -4,3 +4,4 @@
 1. 고양이
 2. 문어
 3. push / push origin master
+4. 현재 이곳은 oct입니다.
